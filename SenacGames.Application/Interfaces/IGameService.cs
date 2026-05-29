@@ -21,4 +21,5 @@ namespace SenacGames.Application.Interfaces
         Task<int> CountAsync();
 
     }
+    ////
 }

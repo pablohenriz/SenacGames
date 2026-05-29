@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE8D7553-C92E-44DA-A2F7-F2F7162FB9B4}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\pablo.hsbraga\\source\\repos\\senacgames\\senacgames.infrastructure\\context\\senacgamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8D7553-C92E-44DA-A2F7-F2F7162FB9B4}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\context\\senacgamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8D7553-C92E-44DA-A2F7-F2F7162FB9B4}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\pablo.hsbraga\\source\\repos\\senacgames\\senacgames.infrastructure\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8D7553-C92E-44DA-A2F7-F2F7162FB9B4}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8D7553-C92E-44DA-A2F7-F2F7162FB9B4}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\pablo.hsbraga\\source\\repos\\senacgames\\senacgames.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8D7553-C92E-44DA-A2F7-F2F7162FB9B4}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5EE5D131-5F65-4C77-ACD9-55FC3C2C6392}|SenacGames.Application\\SenacGames.Application.csproj|c:\\users\\pablo.hsbraga\\source\\repos\\senacgames\\senacgames.application\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EE5D131-5F65-4C77-ACD9-55FC3C2C6392}|SenacGames.Application\\SenacGames.Application.csproj|solutionrelative:senacgames.application\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27786E5-BD60-4C06-9305-4C5243D77F36}|SenacGames.API\\SenacGames.API.csproj|c:\\users\\pablo.hsbraga\\source\\repos\\senacgames\\senacgames.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27786E5-BD60-4C06-9305-4C5243D77F36}|SenacGames.API\\SenacGames.API.csproj|solutionrelative:senacgames.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EE5D131-5F65-4C77-ACD9-55FC3C2C6392}|SenacGames.Application\\SenacGames.Application.csproj|c:\\users\\pablo.hsbraga\\source\\repos\\senacgames\\senacgames.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +82,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SenacGamesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "ToolTip": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "RelativeToolTip": "SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:11:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "ToolTip": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "RelativeToolTip": "SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:56:33.286Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "SenacGames.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:47:16.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.API\\Program.cs",
+              "RelativeDocumentMoniker": "SenacGames.API\\Program.cs",
+              "ToolTip": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.API\\Program.cs",
+              "RelativeToolTip": "SenacGames.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:41:28.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GameDto.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Application\\DTOs\\GameDto.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\DTOs\\GameDto.cs",
@@ -78,12 +150,11 @@
               "RelativeToolTip": "SenacGames.Application\\DTOs\\GameDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T18:13:01.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T18:13:01.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Application\\DTOs\\CategoryDto.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\DTOs\\CategoryDto.cs",
@@ -91,12 +162,11 @@
               "RelativeToolTip": "SenacGames.Application\\DTOs\\CategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T18:12:51.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T18:12:51.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AuthDto.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Application\\DTOs\\AuthDto.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\DTOs\\AuthDto.cs",
@@ -104,25 +174,24 @@
               "RelativeToolTip": "SenacGames.Application\\DTOs\\AuthDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T18:12:35.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T18:12:35.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IGameService.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Application\\Interfaces\\IGameService.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\Interfaces\\IGameService.cs",
               "ToolTip": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Application\\Interfaces\\IGameService.cs",
               "RelativeToolTip": "SenacGames.Application\\Interfaces\\IGameService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T18:13:54.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Application\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\Interfaces\\ICategoryService.cs",
@@ -130,12 +199,11 @@
               "RelativeToolTip": "SenacGames.Application\\Interfaces\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T18:14:34.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T18:14:34.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Application\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\Services\\CategoryService.cs",
@@ -143,12 +211,11 @@
               "RelativeToolTip": "SenacGames.Application\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T18:17:03.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T18:17:03.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "GameService.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Application\\Services\\GameService.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\Services\\GameService.cs",
@@ -156,25 +223,23 @@
               "RelativeToolTip": "SenacGames.Application\\Services\\GameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T18:15:23.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T18:15:23.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SenacGames.Application",
+              "DocumentIndex": 11,
+              "Title": "SenacGames.Application.csproj",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Application\\SenacGames.Application.csproj",
               "RelativeDocumentMoniker": "SenacGames.Application\\SenacGames.Application.csproj",
               "ToolTip": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Application\\SenacGames.Application.csproj",
               "RelativeToolTip": "SenacGames.Application\\SenacGames.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-28T18:10:17.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T18:10:17.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "SenacGames.Domain\\Entities\\Category.cs",
@@ -182,12 +247,11 @@
               "RelativeToolTip": "SenacGames.Domain\\Entities\\Category.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T17:22:19.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T17:22:19.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Domain\\Entities\\Game.cs",
               "RelativeDocumentMoniker": "SenacGames.Domain\\Entities\\Game.cs",
@@ -195,12 +259,11 @@
               "RelativeToolTip": "SenacGames.Domain\\Entities\\Game.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T17:22:31.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T17:22:31.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Domain\\Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "SenacGames.Domain\\Interfaces\\ICategoryRepository.cs",
@@ -208,12 +271,11 @@
               "RelativeToolTip": "SenacGames.Domain\\Interfaces\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T17:25:04.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T17:25:04.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "IGameRepository.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Domain\\Interfaces\\IGameRepository.cs",
               "RelativeDocumentMoniker": "SenacGames.Domain\\Interfaces\\IGameRepository.cs",
@@ -221,29 +283,23 @@
               "RelativeToolTip": "SenacGames.Domain\\Interfaces\\IGameRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T17:25:25.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T17:25:25.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SenacGames.Domain",
+              "DocumentIndex": 16,
+              "Title": "SenacGames.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Domain\\SenacGames.Domain.csproj",
               "RelativeDocumentMoniker": "SenacGames.Domain\\SenacGames.Domain.csproj",
               "ToolTip": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Domain\\SenacGames.Domain.csproj",
               "RelativeToolTip": "SenacGames.Domain\\SenacGames.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-28T17:18:33.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-05-28T17:18:33.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\pablo.hsbraga\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Class1.cs",
@@ -251,8 +307,7 @@
               "RelativeToolTip": "SenacGames.Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T16:58:08.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T16:58:08.343Z"
             }
           ]
         }
