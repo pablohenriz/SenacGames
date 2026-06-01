@@ -15,6 +15,8 @@ namespace SenacGames.Application.DTOs
         public string CategoryName { get; set; } = string.Empty;
         public bool IsFeatured { get; set; }
         public DateTime CreateAt { get; set; }
+        public string CoverImageUrl { get; internal set; }
+        public DateTime CreatedAt { get; internal set; }
     }
 
     public class CreateGameDto
@@ -35,5 +37,6 @@ namespace SenacGames.Application.DTOs
         public string CoverImagemUrl { get; set; } = string.Empty;
         public int CategoryId { get; set; }
         public bool IsFeatured { get; set; }
+        public string CoverImageUrl { get; internal set; }
     }
 }
